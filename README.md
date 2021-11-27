@@ -1,5 +1,7 @@
 # cottons - 깨끗한 포근함
-Hello, world! 👋
+print("Hello, world!")
+console.log("I'm cottons");
+System.Console.WriteLine("Let's make world better!");
 
 ## About me
 - Virtual Lab 소속
