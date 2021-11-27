@@ -1,7 +1,13 @@
 # cottons - 깨끗한 포근함
+```python
 print("Hello, world!")
+```
+```js
 console.log("I'm cottons");
+```
+```csharp
 System.Console.WriteLine("Let's make world better!");
+```
 
 ## About me
 - Virtual Lab 소속
