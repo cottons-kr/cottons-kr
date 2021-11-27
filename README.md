@@ -19,7 +19,7 @@ System.Console.WriteLine("Let's make world better!");
 ## About Virtual Lab
  줄여서 vlab이라고 하며 클래스팅 "SW교육 함께해요" 에서 활동하던 사람들의 모임입니다.
 현재 저를 포함한 5명으로 이루어져 있습니다.
-하는일은 서로에게 도움을 받고 주는, 서로에 부족한 점을 채워주는 것입니다.
+하는일은 서로에게 도움을 받고 주는, 서로의 부족한 점을 채워주는 것입니다.
 
 ## Partners
 1. [Forgot09](https://github.com/Forgot09)
