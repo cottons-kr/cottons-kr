@@ -12,9 +12,9 @@ System.Console.WriteLine("Let's make world better!");
 ## About me
 - Virtual Lab 소속
 - 풀스택 개발자라기엔 좀 부족한 개발자 지망생
-- 현재 [YourFavorite](https://github.com/cottons-kr/YourFavorite) 개발중입니다
+- 현재 [RhyChall](https://github.com/cottons-kr/RhyChall)을(를) 개발중입니다
 - Python, HTML, CSS, Javascript를 사용하고
-- React Framework, php, C#(.NET)을 배우고 싶습니다.
+- Go, C#(.NET)을 배우고 싶습니다.
 
 ## About Virtual Lab
  줄여서 vlab이라고 하며 클래스팅 "SW교육 함께해요" 에서 활동하던 사람들의 모임입니다.
