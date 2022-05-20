@@ -1,20 +1,18 @@
-# cottons - 깨끗한 포근함
-```python
-print("Hello, world!")
-```
-```js
-console.log("I'm cottons");
-```
-```csharp
-System.Console.WriteLine("Let's make world better!");
-```
+# 👋 Hello!
+안녕하세요, 코튼입니다!<br>こんにちは, コトンです！
 
-## About me
-- 풀스택 개발자라기엔 좀 부족한 개발자 지망생
-- 현재 [Fanivory](https://github.com/cottons-kr/fanivory)을(를) 개발중입니다
-- Python, HTML, CSS, Java/Typescript를 사용하고
-- Go, C#(.NET)을 배우고 싶습니다.
-- SerenDev 
+# 🙋 About me
+- 프론트엔드 개발자를 꿈꾸는 학생
+- 현재 [Fanivory](https://github.com/cottons-kr/fanivory) 개발중
+- 영어, 일본어 열심히 배우는중
 
-# Contact me
-Not yet :)
+# 🌟 Features
+- FrontEnd (Without any Framework or Library)
+- Server (Express, Ktor, SQL)
+- Electron App
+- Discord Bot
+- Using Linux
+
+# 🔗 Contact me
+- 📧 Email : cottonsdevelop@gmail.com
+cottons-kr@naver.com
