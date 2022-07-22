@@ -3,12 +3,12 @@
 
 # 🙋 About me
 - Student that want to be a Frontend Dev
-- Developing [Fanivory](https://github.com/cottons-kr/fanivory)
+- Developing very secret project
 - Learning English and Japanese hard
 
 # 🌟 Features
 - Frontend (React, Vanilla)
-- Some Backend skill (Express, Ktor, Flask, SQL)
+- Some Backend skills (Express, Flask, SQL)
 - Electron App
 - Discord Bot
 - Using Linux
